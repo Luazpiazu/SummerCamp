@@ -22,4 +22,3 @@ Durante este campamento, te sumergirás en un entorno de aprendizaje colaborativ
 
 5. **Casos prácticos y ejercicios**: Pondrás en práctica tus habilidades aprendidas en ejercicios prácticos y casos de estudio, lo que te permitirá aplicar Power BI a situaciones del mundo real.
 
-6. **Colaboración y networking**: Tendrás la oportunidad de interactuar con otros participantes, compartir ideas y establecer conexiones con profesionales y entusiastas de Power BI.
