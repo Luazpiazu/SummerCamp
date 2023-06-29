@@ -23,3 +23,19 @@ En este ejercicio, crearemos una clase llamada `Persona`. Esta clase contendrá 
 8. Función para comparar edades de los objetivos e imprimir string con la info correspondiente (incluir edad convertida a string)
 9. Crea un Array con 5 nuevos objetos (que hayas creado tú) junto a los dos objetos facilitados anteriormente.
 10. Crea un diccionario vacío que toma como llave (“key”) y valor (“value”) un String. Recorre el Array creado para añadir al diccionario las ciudades como llaves y las personas correspondientes a cada ciudad como valores. IMPORTANTE: Valores únicos como llaves. Imprime el diccionario al finalizar el bucle.
+
+# Coche class con ejercicios
+
+En este ejercicio, trabajaremos con la clase Coche, que representa un objeto que tiene atributos como marca, modelo y velocidad. La marca y el modelo representan las características del coche, mientras que la velocidad indica la velocidad actual a la que se encuentra.
+
+1. Constructor
+2. Getters and Setters
+3. Crear dos objetos diferentes de Coche: uno con marca "Toyota" y otro con marca "Ford"
+4. Crear una función que reciba como parámetros los dos objetos anteriores y los utilice para comparar las marcas de los coches. La función deberá imprimir un mensaje indicando si las marcas son iguales o diferentes.
+5. Función para acelerar un coche en una determinada cantidad de kilómetros por hora. La función deberá recibir como parámetro el coche y la cantidad de aceleración, y deberá actualizar la velocidad del coche.
+6. Función para frenar un coche en una determinada cantidad de kilómetros por hora. La función deberá recibir como parámetro el coche y la cantidad de frenado, y deberá actualizar la velocidad del coche.
+7. Función para obtener la velocidad máxima permitida según la marca del coche. La función deberá recibir como parámetro el coche y devolver un valor entero. ("Ford", "Toyota", "BMW" y "Audi")
+8. Crea un Array con 3 objetos diferentes de Coche (que hayas creado tú) junto a los dos objetos facilitados anteriormente. Mínimo 1 coche repetido
+9. Crea un diccionario vacío que tome como llave ("key") y valor ("value") un String. Recorre el Array creado para añadir al diccionario las marcas de los coches como llaves y los modelos de cada coche correspondientes a cada marca como valores. Imprime el diccionario al finalizar el bucle.
+10. Implementa una función que tome como parámetro un array de objetos Coche y devuelva el coche con la velocidad máxima. Si hay varios coches con la misma velocidad máxima, devuelve el primero que encuentres en el array.
+
